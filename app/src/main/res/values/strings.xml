@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sudoku Randomizer and Solver - Kotlin</string>
+    <string name="solve_puzzle">Solve Puzzle</string>
+    <string name="ok" />
+    <string name="cancel" />
+    <string name="check_it">Check It!</string>
+</resources>
